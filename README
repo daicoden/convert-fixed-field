@@ -1,0 +1,5 @@
+You'll need to install ruby, this was developed with ruby 2.3
+https://rvm.io/ is a good way to get it
+
+chomod +x convert.rb
+./convert.rb test.txt > out.json
